@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+var name: String = "RaegHoon"
 
+name.lastCharacter()
+name.lastCharacter2
+name~~
